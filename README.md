@@ -45,13 +45,28 @@
 - Meeting requirements
 - Mentoring
   
+
 <h1>Manual Testing Projects</h1>
 
-1.   <a href="https://www.rokomari.com/book">Rokomari </a> </br>
-  I have written test plan,test scenarios,test cases </br>
-  **Technology Used:** Microsoft Excel </br>
-  **Projects Link:** https://github.com/arifi083/Test-Case-Rokomari
-  
+1.  <a href="https://www.rokomari.com/book">Rokomari </a> </br>
+    I have written test plan,test scenarios,test cases </br>
+    **Technology Used:** Microsoft Excel </br>
+    **Projects Link:** https://github.com/arifi083/Test-Case-Rokomari
+
+2.  Easy Shop(Ecommerce) </br>
+    I have written test plan,test scenarios,test cases </br>
+    **Technology Used:** Microsoft Excel </br>
+    **Projects Link:** https://github.com/arifi083/Test-Case-EasyShop-Ecommerce
+
+3.  Daraz </br>
+    I have written test plan,test scenarios,test cases </br>
+    **Technology Used:** Microsoft Excel </br>
+    **Projects Link:** https://github.com/arifi083/Test-Case-Daraz
+
+<h1>Automation Testing Projects</h1>
+
+1. <a href="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login">OrangeHRM</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
