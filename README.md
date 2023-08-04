@@ -165,21 +165,11 @@
 <h1>Software Projects</h1>
 
 1. **Easy Shop(Ecommerce)** </br>
-For this application,I use laravel framework.User can view
-product,filtering product,view product details,search product,view
-slider,add to cart,add to wishlist,apply coupon,.give product
-review,view blog,give the payment on cash on delivery,view order
-tracking status,view orderlist,return orderlist,cancel order.user
-can update the profile.This system support multiple
-language(englist,bangla).
-
 **Technology Used:** Laravel,Jquery,CSS, Bootstrap </br>
 **Projects Link:** https://github.com/arifi083/Ecommerce-Project
-
 2. **News Portal System** </br>
 **Technology Used:** Laravel,Jquery,CSS, Bootstrap </br>
 **Projects Link:** https://github.com/arifi083/News-Portal-System
-
 3. **INVENTORY MANAGEMENT SYSTEM** </br>
 **Technology Used:**Laravel,Vue,CSS, Bootstrap</br>
 **Projects Link:**https://github.com/arifi083/Inventory-Management-System
