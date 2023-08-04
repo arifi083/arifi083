@@ -65,7 +65,15 @@
 
 <h1>Automation Testing Projects</h1>
 
-1. <a href="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login">OrangeHRM</a>
+1. <a href="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login">OrangeHRM</a> </br>
+- Requirement analysis,Write test scenarios,write test cases.
+- Developed Selenium Automation framework using page object model design pattern.
+- using grade as the build and dependency management tool
+- Showing allure report.
+- It was very difficult for finding some locators.
+
+ **Technology Used:** Selenium,TestNG,Java,Gradle,Intellij idea,Allure
+**Projects Link:** https://github.com/arifi083/Orangehrmlive-Selenium-Web-Automation
 
 
 <h3 align="left">Connect with me:</h3>
