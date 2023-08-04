@@ -123,6 +123,18 @@
 **Projects Link:** https://github.com/arifi083/Nopcommerce-Cucumber-Selenium-Automation
 
 
+6. <a href="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login">OrangeHRM</a> </br>
+
+- Requirement analysis,Write test scenarios,test cases
+- Developed Selenium Automation framework using JUnit
+- using Gradle as the build and dependency management tool
+- Pass 100% test case
+- Showing report.
+
+**Technology Used:** Selenium,JUnit,Java,Gradle,Intellij idea </br>
+**Projects Link:**https://github.com/arifi083/OrangeHRM-using-JUnit-Selenium
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arif-miah-034511188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arif-miah-034511188/" height="30" width="40" /></a>
