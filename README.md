@@ -134,6 +134,31 @@
 **Technology Used:** Selenium,JUnit,Java,Gradle,Intellij idea </br>
 **Projects Link:**https://github.com/arifi083/OrangeHRM-using-JUnit-Selenium
 
+<h1>API Automation Testing Projects</h1>
+
+1. **Dmoney Rest API Postman Automaton** </br>
+ - Write test cases
+ - Automate all Dmoney-related API calls via Postman.
+ - Run the collection with the command-line tool Newman
+ - Run the collection with the Jenkins
+ - Customized report (HTMLExtra reports) for reporting
+ - Pass 100% test case
+ - Showing bug report
+ 
+**Technology Used:** Postman,Newman,Jenkins </br>
+**Projects Link:**https://github.com/arifi083/Dmonery-Rest-API-Postman-Automation
+
+
+2. **Dmoney Rest API Postman Automaton** </br>
+ - Write test cases
+ - Automate all Dmoney-related API calls via Rest Assured.
+ - Using gradle as the build and dependency management tool
+ - Pass 100% test case
+ - Showing report
+
+**Technology Used:** Postman,Newman,Jenkins </br>
+**Projects Link:**https://github.com/arifi083/Dmonery-Rest-API-Postman-Automation
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
