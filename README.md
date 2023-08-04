@@ -2,13 +2,16 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifi083&label=Profile%20views&color=0e75b6&style=flat" alt="arifi083" /> </p>
 <h1>Introduction</h1>
 <p >I am very passionate about software quality assurance since my university life. I want to be an expert software quality assurance engineer.  I am looking for software quality assurance engineer position where I can apply my skills. I am a quick learner and have the ability to work in a team as well as independently.</p>
+
 <h1>About Me</h1>
+
 - I’m have completed Softwarer Quality Assurance course at Tecognize
 -  I want to learn more about different testing methods, test automation and quality assurance best practices 
 - I am looking for software quality assurance engineer position where I can apply skills.
 - I am trying to contribute some automation advance project where i can learn lot of things
 
 - 💬 Ask me about **SQA,Web Development,Software Automation**
+
 
 
 
