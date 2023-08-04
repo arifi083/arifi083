@@ -57,13 +57,13 @@
 
 2.  Easy Shop(Ecommerce)
 - I have written test plan,test scenarios,test cases
-- According test case I had executed all the test case. Test case has passed 88% 
+- According test case I had executed all the test case. Test case has passed 88% </br>
 **Technology Used:** Microsoft Excel </br>
 **Projects Link:** https://github.com/arifi083/Test-Case-EasyShop-Ecommerce
 
 3.  <a href="https://www.daraz.com.bd/">Daraz</a>
 - I have written test plan,test scenarios,test cases
-- According test case I had executed all the test case.Test case has passed 72% 
+- According test case I had executed all the test case.Test case has passed 72% </br>
 **Technology Used:** Microsoft Excel </br>
 **Projects Link:** https://github.com/arifi083/Test-Case-Daraz
   
