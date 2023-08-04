@@ -58,7 +58,7 @@
     **Technology Used:** Microsoft Excel </br>
     **Projects Link:** https://github.com/arifi083/Test-Case-EasyShop-Ecommerce
 
-3.  Daraz </br>
+3.  <a href="https://www.daraz.com.bd/">Daraz</a> </br>
     I have written test plan,test scenarios,test cases </br>
     **Technology Used:** Microsoft Excel </br>
     **Projects Link:** https://github.com/arifi083/Test-Case-Daraz
