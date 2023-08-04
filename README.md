@@ -72,7 +72,7 @@
 - Showing allure report.
 - It was very difficult for finding some locators.
 
- **Technology Used:** Selenium,TestNG,Java,Gradle,Intellij idea,Allure
+ **Technology Used:** Selenium,TestNG,Java,Gradle,Intellij idea,Allure </br>
 **Projects Link:** https://github.com/arifi083/Orangehrmlive-Selenium-Web-Automation
 
 
