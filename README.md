@@ -66,14 +66,61 @@
 <h1>Automation Testing Projects</h1>
 
 1. <a href="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login">OrangeHRM</a> </br>
+
 - Requirement analysis,Write test scenarios,write test cases.
 - Developed Selenium Automation framework using page object model design pattern.
-- using grade as the build and dependency management tool
+- using gradle as the build and dependency management tool
 - Showing allure report.
+- Pass all the test case
 - It was very difficult for finding some locators.
 
- **Technology Used:** Selenium,TestNG,Java,Gradle,Intellij idea,Allure </br>
+**Technology Used:** Selenium,TestNG,Java,Gradle,Intellij idea,Allure </br>
 **Projects Link:** https://github.com/arifi083/Orangehrmlive-Selenium-Web-Automation
+
+2. <a href="https://www.rokomari.com/book"> Rokomari </a> </br>
+
+- Requirement analysis,Write test scenarios,write test cases.
+- Developed Selenium Automation framework using page object model design pattern.
+- using gradle as the build and dependency management tool
+- conduct data driven testing
+- Pass all the test case
+- Showing allure report.
+
+**Technology Used:** Selenium,TestNG,Java,Gradle,Intellij idea,Allure </br>
+**Projects Link:** https://github.com/arifi083/Web-Automation-On-Rokomari-Website-With-Selenium-TestNG
+
+3. <a href="https://monarchmart.com/">Monarchmart </a></br>
+
+- Requirement analysis,Write test scenarios.
+- Developed Selenium Automation framework using page object model design pattern.
+- using gradle as the build and dependency management tool
+- conduct data driven testing
+- Pass 80% test case
+- Showing allure report.
+
+**Technology Used:** Selenium,TestNG,Java,Gradle,Intellij idea,Allure </br>
+**Projects Link:** https://github.com/arifi083/Web-Automation-On-Rokomari-Website-With-Selenium-TestNG
+
+4. <a href="https://shopist.io/"> Shopist </a></br>
+
+- Requirement analysis,Write test scenarios.
+- Developed Cypress Automation framework using page object model design pattern.
+- Pass all test case
+- Showing Mochawesome report.
+
+**Technology Used:** Cypress,Javascript,Mochawesome </br>
+**Projects Link:** https://github.com/arifi083/Shopist-Cypress-Automation
+
+5. <a href="https://admin-demo.nopcommerce.com/">Nopcommerce</a></br>
+
+- Requirement analysis,Write test scenarios.
+- Developed Selenium Automation framework using Cucumber design pattern.
+- using Maven as the build and dependency management tool
+- Pass 83% test case
+- Showing report.
+
+**Technology Used:** Selenium,Cucumber,JUnit,Java,Maven,Intellij idea </br>
+**Projects Link:** https://github.com/arifi083/Nopcommerce-Cucumber-Selenium-Automation
 
 
 <h3 align="left">Connect with me:</h3>
