@@ -11,6 +11,13 @@
 - I am trying to contribute some advance automation  project where i can learn lot of things
 - 💬 Ask me about **SQA,Web Development,Software Automation**
 
+<h1>Technical Skills</h1>
+
+- **Manual Testing:** Analyzing requirement,designing test plan,writing test case,executing test case,applying different testing methods,defect reporting
+- **Web Automation Testing:** Selenium,TestNG,JUnit,Cucumber,Cypress,Playwright
+- **Api Automation Testing:** Postman,Rest Assured,Newman
+- **Performance Testing:** JMeter
+- **CI/CD Tools:** Jenkins
 
 
 
