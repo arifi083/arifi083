@@ -8,8 +8,7 @@
 - I’m have completed Softwarer Quality Assurance course at Tecognize
 -  I want to learn more about different testing methods, test automation and quality assurance best practices 
 - I am looking for software quality assurance engineer position where I can apply skills.
-- I am trying to contribute some automation advance project where i can learn lot of things
-
+- I am trying to contribute some advance automation  project where i can learn lot of things
 - 💬 Ask me about **SQA,Web Development,Software Automation**
 
 
