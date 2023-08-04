@@ -148,7 +148,6 @@
 **Technology Used:** Postman,Newman,Jenkins </br>
 **Projects Link:**https://github.com/arifi083/Dmonery-Rest-API-Postman-Automation
 
-
 2. **Dmoney Rest API Postman Automaton** </br>
  - Write test cases
  - Automate all Dmoney-related API calls via Rest Assured.
@@ -157,7 +156,7 @@
  - Showing report
 
 **Technology Used:** Postman,Newman,Jenkins </br>
-**Projects Link:**https://github.com/arifi083/Dmonery-Rest-API-Postman-Automation
+**Projects Link:** https://github.com/arifi083/API-Testing-on-Dmoney-API-with-Rest-Assured
 
 
 <h3 align="left">Connect with me:</h3>
