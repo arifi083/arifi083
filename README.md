@@ -48,21 +48,25 @@
 
 <h1>Manual Testing Projects</h1>
 
-1.  <a href="https://www.rokomari.com/book">Rokomari </a> </br>
-    I have written test plan,test scenarios,test cases </br>
-    **Technology Used:** Microsoft Excel </br>
-    **Projects Link:** https://github.com/arifi083/Test-Case-Rokomari
+1.  <a href="https://www.rokomari.com/book">Rokomari </a>
+- I have written test plan,test scenarios,test cases.
+- According test case I had executed all the test case. Test case has passed 93% 
 
-2.  Easy Shop(Ecommerce) </br>
-    I have written test plan,test scenarios,test cases </br>
-    **Technology Used:** Microsoft Excel </br>
-    **Projects Link:** https://github.com/arifi083/Test-Case-EasyShop-Ecommerce
+**Technology Used:** Microsoft Excel </br>
+**Projects Link:** https://github.com/arifi083/Test-Case-Rokomari
 
-3.  <a href="https://www.daraz.com.bd/">Daraz</a> </br>
-    I have written test plan,test scenarios,test cases </br>
-    **Technology Used:** Microsoft Excel </br>
-    **Projects Link:** https://github.com/arifi083/Test-Case-Daraz
+2.  Easy Shop(Ecommerce)
+- I have written test plan,test scenarios,test cases
+- According test case I had executed all the test case. Test case has passed 88% 
+**Technology Used:** Microsoft Excel </br>
+**Projects Link:** https://github.com/arifi083/Test-Case-EasyShop-Ecommerce
 
+3.  <a href="https://www.daraz.com.bd/">Daraz</a>
+- I have written test plan,test scenarios,test cases
+- According test case I had executed all the test case. Test case has passed 72% 
+**Technology Used:** Microsoft Excel </br>
+**Projects Link:** https://github.com/arifi083/Test-Case-Daraz
+  
 <h1>Automation Testing Projects</h1>
 
 1. <a href="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login">OrangeHRM</a> </br>
@@ -71,7 +75,7 @@
 - Developed Selenium Automation framework using page object model design pattern.
 - using gradle as the build and dependency management tool
 - Showing allure report.
-- Pass all the test case
+- Test case has passed 100%.
 - It was very difficult for finding some locators.
 
 **Technology Used:** Selenium,TestNG,Java,Gradle,Intellij idea,Allure </br>
@@ -83,7 +87,7 @@
 - Developed Selenium Automation framework using page object model design pattern.
 - using gradle as the build and dependency management tool
 - conduct data driven testing
-- Pass all the test case
+- Test case has passed 100%.
 - Showing allure report.
 
 **Technology Used:** Selenium,TestNG,Java,Gradle,Intellij idea,Allure </br>
@@ -105,7 +109,7 @@
 
 - Requirement analysis,Write test scenarios.
 - Developed Cypress Automation framework using page object model design pattern.
-- Pass all test case
+- Test case has passed 100%.
 - Showing Mochawesome report.
 
 **Technology Used:** Cypress,Javascript,Mochawesome </br>
@@ -116,7 +120,7 @@
 - Requirement analysis,Write test scenarios.
 - Developed Selenium Automation framework using Cucumber design pattern.
 - using Maven as the build and dependency management tool
-- Pass 83% test case
+- Test case has passed 83%.
 - Showing report.
 
 **Technology Used:** Selenium,Cucumber,JUnit,Java,Maven,Intellij idea </br>
@@ -158,6 +162,31 @@
 **Technology Used:** Postman,Newman,Jenkins </br>
 **Projects Link:** https://github.com/arifi083/API-Testing-on-Dmoney-API-with-Rest-Assured
 
+<h1>Software Projects</h1>
+
+1. **Easy Shop(Ecommerce)** </br>
+For this application,I use laravel framework.User can view
+product,filtering product,view product details,search product,view
+slider,add to cart,add to wishlist,apply coupon,.give product
+review,view blog,give the payment on cash on delivery,view order
+tracking status,view orderlist,return orderlist,cancel order.user
+can update the profile.This system support multiple
+language(englist,bangla).
+
+**Technology Used:** Laravel,Jquery,CSS, Bootstrap </br>
+**Projects Link:** https://github.com/arifi083/Ecommerce-Project
+
+2. **News Portal System** </br>
+**Technology Used:** Laravel,Jquery,CSS, Bootstrap </br>
+**Projects Link:** https://github.com/arifi083/News-Portal-System
+
+3. **INVENTORY MANAGEMENT SYSTEM** </br>
+**Technology Used:**Laravel,Vue,CSS, Bootstrap</br>
+**Projects Link:**https://github.com/arifi083/Inventory-Management-System
+
+4. **ECOMMERCE(PHP OOP)** </br>
+**Technology Used:**Laravel,Vue,CSS, Bootstrap</br>
+**Projects Link:** https://github.com/arifi083/Ecommerce-00P
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
