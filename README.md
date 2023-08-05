@@ -178,6 +178,12 @@
 **Technology Used:**Laravel,Vue,CSS, Bootstrap</br>
 **Projects Link:** https://github.com/arifi083/Ecommerce-00P
 
+<h1>Training and Certification</h1>
+ 
+ - Software Quality Assurance(QAOps)-2022 ,Tecognize | <a href="https://drive.google.com/file/d/1IZmEust-bdhs6CqkVSEg8vXBivOSGOJs/view">Credential </a>
+ - Agile with Atlassian Jira,Coursera  | <a href="https://drive.google.com/file/d/1kUYGxcoZqlnWbcv7_GMzNmFjwyEsLztW/view">Credential </a>
+ - Laravel 8 – Build Advanced Ecommerce Proejct A-Z, Udemy | <a href="https://drive.google.com/file/d/1oKDGN6MJNwIC32H4BNAX1cAGAQG7Yf4Y/view">Credential </a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arif-miah-034511188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arif-miah-034511188/" height="30" width="40" /></a>
