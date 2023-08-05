@@ -36,6 +36,8 @@
 - Vue
 - Oracle
 - Ubuntu
+- Microsoft Excel
+- Microsoft Power point
 
 <h1>Soft Skills</h1>
 
